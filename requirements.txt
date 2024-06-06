@@ -1,0 +1,4 @@
+Flask
+highrise-bot-sdk==23.3.4
+requests==2.28.1
+openai
