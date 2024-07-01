@@ -1,4 +1,4 @@
-Flask
-highrise-bot-sdk==23.3.4
-requests==2.28.1
+Flask==2.0.1
+requests==2.25.1
 beautifulsoup4==4.9.3
+highrise-bot-sdk  # remove the version number to install the latest available version
