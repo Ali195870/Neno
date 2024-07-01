@@ -3,5 +3,3 @@
   command = "pip install -r requirements.txt && python run.py"
   publish = "main/"
 
-[functions]
-  directory = "main/netlify/functions/"
