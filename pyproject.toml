@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "myproject"
+version = "1.0.0"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pendulum = "^2.1.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
