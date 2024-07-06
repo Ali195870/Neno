@@ -1,9 +1,0 @@
-[tool.poetry]
-name = "highrise-bot"
-version = "1.0.0"
-
-[tool.poetry.dependencies]
-pendulum = "^2.6.0"
-highrise = "^1.0.0"
-
-[tool.poetry.dev-dependencies]
