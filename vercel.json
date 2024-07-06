@@ -2,11 +2,9 @@
   "version": 2,
   "builds": [
     {
-      "src": "run.py",
-      "use": "@vercel/python",
-      "config": {
-        "requirements": "requirements.txt"
-      }
+      "src": "Dockerfile",
+      "use": "@vercel/docker",
+      "config": {}
     }
   ]
 }
