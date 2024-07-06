@@ -4,7 +4,9 @@
     {
       "src": "run.py",
       "use": "@vercel/python",
-      "config": {}
+      "config": {
+        "requirements": "requirements.txt"
+      }
     }
   ]
 }
