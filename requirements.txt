@@ -1,4 +1,4 @@
 Flask
 highrise-bot-sdk
 requests==2.28.1
-pendulum==2.1.2
+pendulum==2.6.0
